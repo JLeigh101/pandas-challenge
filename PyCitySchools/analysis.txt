@@ -1,0 +1,8 @@
+Reviewing the per shool summary data yields some interesting insights:
+    -As a whole, charter schools have a significantly higher overall passing rate for their student body, when compared to district schools.
+    -Charter Schools not only have a higher overall passing rate, but also achieve that rate at a lower overall cost per student.
+
+Some conclusions one might draw are:
+    -district schools are less effecient at producing 'overall passing' students (note: there are many underlying factors here that would need to be taken into account)
+    -charter schools could more economical as the target of government subsidies, if the intent of those subsidies were to produce more 'overall passing' students. (note: again, there has been no socio-economic data included in these datasets, which would be an illuminating addition to understand why one type of school looks better than the other)
+    
